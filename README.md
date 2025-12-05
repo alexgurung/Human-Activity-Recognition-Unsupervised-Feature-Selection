@@ -1,7 +1,6 @@
 # Human Activity Recognition Using Smartphones – Unsupervised Learning & Feature Selection
 
 **Author:** Alex Gurung  
-**Course:** ARI510  
 
 This repository contains the analysis of the [Human Activity Recognition Using Smartphones Dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones), applying unsupervised learning techniques, feature selection, and supervised classification.
 
@@ -43,20 +42,20 @@ This repository contains the analysis of the [Human Activity Recognition Using S
 git clone https://github.com/alexgurung/Human-Activity-Recognition-Unsupervised-Feature-Selection.git
 cd Human-Activity-Recognition-Unsupervised-Feature-Selection
 
-Download the dataset from UCI HAR Dataset
- and place it locally (optional if you want to re-run analysis).
+2. Download the dataset from UCI HAR Dataset
+   and place it locally (optional if you want to re-run analysis).
 
-Install Python dependencies (if not already installed):
+3. Install Python dependencies (if not already installed):
 
-pip install pandas numpy matplotlib scikit-learn seaborn
+   pip install pandas numpy matplotlib scikit-learn seaborn
 
 
-Open and run har_analysis.ipynb in Jupyter Notebook.
+4. Open and run har_analysis.ipynb in Jupyter Notebook.
 
 📈 Visualizations
 
-Activity distributions, clustering results, PCA projections, silhouette scores, and feature importance plots are included as .png files.
+   Activity distributions, clustering results, PCA projections, silhouette scores, and feature importance plots are included as .png files.
 
 📄 Report
 
-See Report.pdf for detailed methodology, results, and analysis.
+   See Report.pdf for detailed methodology, results, and analysis.
